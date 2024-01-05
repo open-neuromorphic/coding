@@ -20,6 +20,10 @@ The goal is to meet up, hack on projects, close issues, and have fun!
 * [Upload example code in the documentation `docs/source/examples`](https://github.com/neuromorphs/NIR/issues/26)
 <!-- neuromorphs/nir -->
 
+### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
+<!-- norse/norse -->
+<!-- norse/norse -->
+
 ## How to contribute
 Join the chat, update this README file with your project, or just reach out on our Discord.
 
