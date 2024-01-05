@@ -1,10 +1,20 @@
 # Community coding projects
 
-This repository contains a list of community projects, we'll be hacking on every Monday from 16-18 CET on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf).
+This repository contains a list of community projects, we'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf).
 
 The goal is to meet up, hack on projects, close issues, and have fun!
 
 ## Projects and issues
+These projects have issues that needs your help? What are you waiting for? Get hacking!
+
+<!-- NOTE TO CONTRIBUTORS
+Every hour, a script will search for two HTML comment tags with the org/repo name.
+Everything between the tags WILL BE REPLACED with issues that are open AND have the talk "help wanted".
+If you want to add your own project, simply add three lines:
+1. The header with the project title,
+2. The starting HTML comment, and
+3. The ending HTML comment
+-->
 
 ### [AEStream](https://github.com/aestream/aestream) - Seamless plug'n'play streaming for event data 
 <!-- aestream/aestream -->
