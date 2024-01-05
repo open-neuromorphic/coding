@@ -22,6 +22,7 @@ The goal is to meet up, hack on projects, close issues, and have fun!
 
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
 <!-- norse/norse -->
+* [Require an example that using STDP to train the SNN](https://github.com/norse/norse/issues/366)
 <!-- norse/norse -->
 
 ## How to contribute
