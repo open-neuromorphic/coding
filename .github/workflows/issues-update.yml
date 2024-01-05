@@ -10,7 +10,7 @@ on:
   - cron: '0 * * * *'
 
 permissions:
-  contents: read
+  contents: write
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
