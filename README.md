@@ -1,11 +1,13 @@
-# Community coding projects
+![Community coding projects](logo.png)
 
-This repository contains a list of community projects, we'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf).
+Are you interested in neuromorphics and want to contribute to the open source community? ✨ Then join the community coding sessions where we improve the neuromorphic software ecosystem, one issue at the time 🚀
+
+We'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf).
 
 The goal is to meet up, hack on projects, close issues, and have fun!
 
-## Projects and issues
-These projects have issues that needs your help? What are you waiting for? Get hacking!
+## Projects with open issues that needs help
+Want to help out? Pick a project you care about and start hacking 👇
 
 <!-- NOTE TO CONTRIBUTORS
 Every hour, a script will search for two HTML comment tags with the org/repo name.
