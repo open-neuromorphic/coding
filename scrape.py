@@ -5,11 +5,10 @@ from github import Github
 from github import Auth
 
 AUTH_TOKEN = Auth.Token(os.environ["GITHUB_TOKEN"])
-REGEX = r"^<!-- (.*) -->[.\n]*^<!-- (.*) -->"
+REGEX = r"^<!-- (.*) -->[\s\S]*<!-- \1 -->"
 
 def regex_replace(repo):
-  name = repo#.replace("/", "\/")
-  return rf"^(<!-- {name} -->)([.\n]*)^(<!-- {name} -->)"
+  return rf"^(<!-- {repo} -->)([\s\S]*)^(<!-- {repo} -->)"
 
 def issue_text(issue):
   return f"""* [{issue.title}]({issue.html_url})"""
@@ -20,15 +19,12 @@ g = Github(auth=AUTH_TOKEN)
 repos = []
 with open("README.md", "r") as f:
   text = f.read()
-  match = re.findall(REGEX, text, re.MULTILINE)
-  if match is not None:
-    for repo in match:
-      if repo[0] == repo[1]:
-        repos.append(repo[0])
-      else:
-        print("Opening and closing bracket for repo don't match", repo)
+  match = re.findall(REGEX, text, re.MULTILINE | re.UNICODE | re.DOTALL)
+  if match is not None and len(match) > 0:
+    repos = match
   else:
     print("No repos found")
+    exit(-1)
 
 # Scrape repos
 for repo in repos:

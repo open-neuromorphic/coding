@@ -20,6 +20,7 @@ If you want to add your own project, simply add three lines:
 
 ### [AEStream](https://github.com/aestream/aestream) - Seamless plug'n'play streaming for event data 
 <!-- aestream/aestream -->
+* [Test AEStream on Windows](https://github.com/aestream/aestream/issues/94)
 * [Benchmark and use C-API for Inivation cameras](https://github.com/aestream/aestream/issues/93)
 * [Implement ONM benchmark for EVT files](https://github.com/aestream/aestream/issues/92)
 * [Introduce modular install of event cameras](https://github.com/aestream/aestream/issues/54)
