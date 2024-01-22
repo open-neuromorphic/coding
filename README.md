@@ -44,5 +44,10 @@ If you want to add your own project, simply add three lines:
 ## How to contribute
 Join the chat, update this README file with your project, or just reach out on our Discord.
 
+## 🚀 Completed pull requests and issues 🚀
+
+* AEStream [#96](https://github.com/aestream/aestream/pull/96)
+* NIR [#76](https://github.com/neuromorphs/nir/pull/76)
+
 ## Acknowledgements
 Community coding projects is organized by [Jens E. Pedersen](https://github.com/jegp) and hosted by the [Open Neuromorphic organization](https://github.com/open-neuromorphic).
