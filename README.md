@@ -35,6 +35,7 @@ If you want to add your own project, simply add three lines:
 
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
 <!-- norse/norse -->
+* [Speech commands loading broken](https://github.com/norse/norse/issues/383)
 * [Improve docs](https://github.com/norse/norse/issues/374)
 * [ipywidgets package missing when executing notebook for documentation](https://github.com/norse/norse/issues/373)
 * [Require an example that using STDP to train the SNN](https://github.com/norse/norse/issues/366)
