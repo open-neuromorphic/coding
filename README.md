@@ -46,7 +46,7 @@ Join the chat, update this README file with your project, or just reach out on o
 
 ## 🚀 Completed pull requests and issues 🚀
 
-* AEStream [#96](https://github.com/aestream/aestream/pull/96), [#98](https://github.com/aestream/aestream/pull/98)
+* AEStream [#96](https://github.com/aestream/aestream/pull/96), [#98](https://github.com/aestream/aestream/pull/98), [#100](https://github.com/aestream/aestream/pull/100)
 * NIR [#76](https://github.com/neuromorphs/nir/pull/76)
 
 ## Acknowledgements
