@@ -53,8 +53,9 @@ Join the chat, update this README file with your project, or just reach out on o
 
 ## 🚀 Completed pull requests and issues 🚀
 
-* AEStream [#96](https://github.com/aestream/aestream/pull/96), [#98](https://github.com/aestream/aestream/pull/98), [#100](https://github.com/aestream/aestream/pull/100)
-* NIR [#76](https://github.com/neuromorphs/nir/pull/76)
+* [AEStream](https://github.com/aestream/aestream): [#96](https://github.com/aestream/aestream/pull/96), [#98](https://github.com/aestream/aestream/pull/98), [#100](https://github.com/aestream/aestream/pull/100)
+* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76)
+* [Open-Neuromorphic.github.io](https://github.com/open-neuromorphic/open-neuromorphic.github.io): [#169](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/169)
 
 ## Acknowledgements
 Community coding projects is organized by [Jens E. Pedersen](https://github.com/jegp) and hosted by the [Open Neuromorphic organization](https://github.com/open-neuromorphic).
