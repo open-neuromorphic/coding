@@ -41,6 +41,11 @@ If you want to add your own project, simply add three lines:
 * [Require an example that using STDP to train the SNN](https://github.com/norse/norse/issues/366)
 <!-- norse/norse -->
 
+### [Spyx](https://github.com/kmheckel/spyx) - SNNs in JAX
+<!-- kmheckel/spyx -->
+
+<!-- kmheckel/spyx -->
+
 ## How to contribute
 Join the chat, update this README file with your project, or just reach out on our Discord.
 
