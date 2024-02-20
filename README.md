@@ -43,7 +43,9 @@ If you want to add your own project, simply add three lines:
 
 ### [Spyx](https://github.com/kmheckel/spyx) - SNNs in JAX
 <!-- kmheckel/spyx -->
-
+* [Find way to do dataloading without torchvision](https://github.com/kmheckel/spyx/issues/22)
+* [Support for latency-based spike coding](https://github.com/kmheckel/spyx/issues/21)
+* [Add Spiking-RWKV layer to support SpikeGPT architectures](https://github.com/kmheckel/spyx/issues/9)
 <!-- kmheckel/spyx -->
 
 ## How to contribute
