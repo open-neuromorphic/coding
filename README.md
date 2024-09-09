@@ -34,6 +34,10 @@ If you want to add your own project, simply add three lines:
 * [Build Docker containers](https://github.com/aestream/aestream/issues/53)
 <!-- aestream/aestream -->
 
+### [Faery](https://github.com/aestream/faery) - Event streaming multitool with an efficient Rust core
+<!-- aestream/faery -->
+<!-- aestream/faery -->
+
 ### [Neuromorphic Intermediate Representation (NIR)](https://github.com/neuromorphs/nir) - A neuromorphic continuous-time instruction set
 <!-- neuromorphs/nir -->
 * [Upload example code in the documentation `docs/source/examples`](https://github.com/neuromorphs/NIR/issues/26)
