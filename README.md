@@ -36,6 +36,12 @@ If you want to add your own project, simply add three lines:
 
 ### [Faery](https://github.com/aestream/faery) - Event streaming multitool with an efficient Rust core
 <!-- aestream/faery -->
+* [Add support for AEDAT](https://github.com/aestream/faery/issues/6)
+* [Add CI pipeline for releasing to PyPi](https://github.com/aestream/faery/issues/5)
+* [Add documentation](https://github.com/aestream/faery/issues/4)
+* [Add UDP I/O](https://github.com/aestream/faery/issues/3)
+* [Add GPU frames via DLPack](https://github.com/aestream/faery/issues/2)
+* [Add Inivation drivers](https://github.com/aestream/faery/issues/1)
 <!-- aestream/faery -->
 
 ### [Neuromorphic Intermediate Representation (NIR)](https://github.com/neuromorphs/nir) - A neuromorphic continuous-time instruction set
