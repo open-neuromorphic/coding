@@ -46,6 +46,7 @@ If you want to add your own project, simply add three lines:
 
 ### [Neuromorphic Intermediate Representation (NIR)](https://github.com/neuromorphs/nir) - A neuromorphic continuous-time instruction set
 <!-- neuromorphs/nir -->
+* [Notebook docs run with wrong dependencies](https://github.com/neuromorphs/NIR/issues/106)
 * [Upload example code in the documentation `docs/source/examples`](https://github.com/neuromorphs/NIR/issues/26)
 <!-- neuromorphs/nir -->
 
