@@ -36,7 +36,6 @@ If you want to add your own project, simply add three lines:
 
 ### [Faery](https://github.com/aestream/faery) - Event streaming multitool with an efficient Rust core
 <!-- aestream/faery -->
-* [Add CI pipeline for releasing to PyPi](https://github.com/aestream/faery/issues/5)
 * [Add documentation](https://github.com/aestream/faery/issues/4)
 * [Add UDP I/O](https://github.com/aestream/faery/issues/3)
 * [Add GPU frames via DLPack](https://github.com/aestream/faery/issues/2)
