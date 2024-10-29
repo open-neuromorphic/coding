@@ -2,7 +2,7 @@
 
 Are you interested in neuromorphics and want to contribute to the open source community? ✨ Then join the community coding sessions where we improve the neuromorphic software ecosystem, one issue at the time 🚀
 
-We'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf).
+We'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf) and we record our events on the [YouTube channel @HackingHours](https://www.youtube.com/@hackinghours)
 
 The goal is to meet up, hack on projects, close issues, and have fun!
 
