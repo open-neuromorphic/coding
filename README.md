@@ -7,9 +7,10 @@ We'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord ser
 The goal is to meet up, hack on projects, close issues, and have fun!
 
 ## 🚀 Completed pull requests and issues 🚀
-The entire point is to move things forward and get stuff done---and it's working! The below issues and pull requests were all closed during the hacking hours:
+The entire point is to move things forward, get stuff done, and provide real value! The below issues and pull requests were all closed during the hacking hours:
 
 * [AEStream](https://github.com/aestream/aestream): [#96](https://github.com/aestream/aestream/pull/96), [#98](https://github.com/aestream/aestream/pull/98), [#100](https://github.com/aestream/aestream/pull/100), [#108](https://github.com/aestream/aestream/pull/108), [#110](https://github.com/aestream/aestream/pull/110), [#111](https://github.com/aestream/aestream/pull/111)
+* [Faery](https://github.com/aestream/faery/): [#10](https://github.com/aestream/faery/pull/10), [#15](https://github.com/aestream/faery/pull/15), [#16](https://github.com/aestream/faery/pull/16)
 * [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104)
 * [Open-Neuromorphic.github.io](https://github.com/open-neuromorphic/open-neuromorphic.github.io): [#169](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/169)
 
