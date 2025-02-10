@@ -1,6 +1,13 @@
 ![Community coding projects](logo.png)
 
-Are you interested in neuromorphics and want to contribute to the open source community? ✨ Then join the community coding sessions where we improve the neuromorphic software ecosystem, one issue at the time 🚀
+[![Discord](https://img.shields.io/discord/1044548629622439977)](https://discord.gg/C9bzWgNmqk)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/jegp)](https://github.com/sponsors/Jegp/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/open-neuromorphic/coding)](https://github.com/open-neuromorphic/coding)
+
+
+[Neuromorphic technologies](https://en.wikipedia.org/wiki/Neuromorphic_computing) are fascinating new ways to build computers, inspired bythe brain.
+The ecosystem around neuromorphics is rapidly growing, and we have a unique window of opportunity to build accessible, fast, and reliable software for neuromorphic technologies.
+Help us by resolving issues below and join our community coding sessions where we improve the neuromorphic software ecosystem, one issue at the time 🚀
 
 We'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf) and we record our events on the [YouTube channel @HackingHours](https://www.youtube.com/@hackinghours)
 
@@ -9,9 +16,9 @@ The goal is to meet up, hack on projects, close issues, and have fun!
 ## 🚀 Completed pull requests and issues 🚀
 The entire point is to move things forward, get stuff done, and provide real value! The below issues and pull requests were all closed during the hacking hours:
 
-* [AEStream](https://github.com/aestream/aestream): [#96](https://github.com/aestream/aestream/pull/96), [#98](https://github.com/aestream/aestream/pull/98), [#100](https://github.com/aestream/aestream/pull/100), [#108](https://github.com/aestream/aestream/pull/108), [#110](https://github.com/aestream/aestream/pull/110), [#111](https://github.com/aestream/aestream/pull/111)
-* [Faery](https://github.com/aestream/faery/): [#10](https://github.com/aestream/faery/pull/10), [#15](https://github.com/aestream/faery/pull/15), [#16](https://github.com/aestream/faery/pull/16)
-* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104)
+* [Faery](https://github.com/aestream/faery/): [#10](https://github.com/aestream/faery/pull/10), [#15](https://github.com/aestream/faery/pull/15), [#16](https://github.com/aestream/faery/pull/16) [#22](https://github.com/aestream/faery/pull/22)
+* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104) [#122](https://github.com/neuromorphs/NIR/pull/122)
+* [Norse](https://github.com/norse/norse): [#409](https://github.com/norse/norse/pull/409)
 * [Open-Neuromorphic.github.io](https://github.com/open-neuromorphic/open-neuromorphic.github.io): [#169](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/169)
 
 ## Projects with open issues that needs help
@@ -26,30 +33,23 @@ If you want to add your own project, simply add three lines:
 3. The ending HTML comment
 -->
 
-### [AEStream](https://github.com/aestream/aestream) - Seamless plug'n'play streaming for event data 
-<!-- aestream/aestream -->
-* [Test AEStream on Windows](https://github.com/aestream/aestream/issues/94)
-* [Benchmark and use C-API for Inivation cameras](https://github.com/aestream/aestream/issues/93)
-* [Implement ONM benchmark for EVT files](https://github.com/aestream/aestream/issues/92)
-* [Introduce modular install of event cameras](https://github.com/aestream/aestream/issues/54)
-* [Build Docker containers](https://github.com/aestream/aestream/issues/53)
-<!-- aestream/aestream -->
-
 ### [Faery](https://github.com/aestream/faery) - Event streaming multitool with an efficient Rust core
+[![GitHub Repo stars](https://img.shields.io/github/stars/aestream/faery)](https://github.com/aestream/faery) [![PyPI - Downloads](https://img.shields.io/pypi/dm/faery)](https://pypi.org/project/faery)
 <!-- aestream/faery -->
 * [Add documentation](https://github.com/aestream/faery/issues/4)
 * [Add UDP I/O](https://github.com/aestream/faery/issues/3)
 * [Add GPU frames via DLPack](https://github.com/aestream/faery/issues/2)
-* [Add Inivation drivers](https://github.com/aestream/faery/issues/1)
 <!-- aestream/faery -->
 
 ### [Neuromorphic Intermediate Representation (NIR)](https://github.com/neuromorphs/nir) - A neuromorphic continuous-time instruction set
+[![GitHub Repo stars](https://img.shields.io/github/stars/neuromorphs/nir)](https://github.com/neuromorphs/nir) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nir)](https://pypi.org/project/nir)
 <!-- neuromorphs/nir -->
 * [Notebook docs run with wrong dependencies](https://github.com/neuromorphs/NIR/issues/106)
 * [Upload example code in the documentation `docs/source/examples`](https://github.com/neuromorphs/NIR/issues/26)
 <!-- neuromorphs/nir -->
 
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
+[![GitHub Repo stars](https://img.shields.io/github/stars/norse/norse)](https://github.com/norse/norse) [![PyPI - Downloads](https://img.shields.io/pypi/dm/norse)](https://pypi.org/projecs/norse)
 <!-- norse/norse -->
 * [Speech commands loading broken](https://github.com/norse/norse/issues/383)
 * [Improve docs](https://github.com/norse/norse/issues/374)
@@ -57,7 +57,14 @@ If you want to add your own project, simply add three lines:
 * [Require an example that using STDP to train the SNN](https://github.com/norse/norse/issues/366)
 <!-- norse/norse -->
 
+
+### [snnTorch](https://github.com/jeshraghian/snnTorch) - Deep and online learning with spiking neural networks in Python
+[![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch)](https://github.com/jeshraghian/snntorch) [![PyPI - Downloads](https://img.shields.io/pypi/dm/snntorch)](https://pypi.org/project/snntorch)
+<!-- jeshraghian/snntorch -->
+<!-- jeshraghian/snntorch -->
+
 ### [Spyx](https://github.com/kmheckel/spyx) - SNNs in JAX
+[![GitHub Repo stars](https://img.shields.io/github/stars/kmheckel/spyx)](https://github.com/kmheckel/spyx) [![PyPI - Downloads](https://img.shields.io/pypi/dm/spyx)](https://pypi.org/project/spyx)
 <!-- kmheckel/spyx -->
 * [Add shape checking to Accuracy and Loss functions](https://github.com/kmheckel/spyx/issues/25)
 * [Support for latency-based spike coding](https://github.com/kmheckel/spyx/issues/21)
