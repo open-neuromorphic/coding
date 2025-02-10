@@ -31,11 +31,16 @@ for repo in repos:
   repo_object = g.get_repo(repo)
   issues = repo_object.get_issues(state="open", labels=["help wanted"])
   text_issues = "\n"
+  issue_counter = 0
   for issue in issues:
     text_issues += issue_text(issue) + "\n"
+    issue_counter += 1
   with open(f"README.md", "r") as f:
     text = f.read()
 
   with open(f"README.md", "w") as f:
-    sub = re.sub(regex_replace(repo), rf"\1{text_issues}\3", text, flags=re.MULTILINE)
+    if issue_counter == 0:
+      sub = re.sub(regex_replace(repo), rf"\1 \nNo open issues that need help\n \3", text, flags=re.MULTILINE)
+    else:
+      sub = re.sub(regex_replace(repo), rf"\1{text_issues}\3", text, flags=re.MULTILINE)
     f.write(sub)

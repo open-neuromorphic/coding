@@ -60,8 +60,9 @@ If you want to add your own project, simply add three lines:
 
 ### [snnTorch](https://github.com/jeshraghian/snnTorch) - Deep and online learning with spiking neural networks in Python
 [![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch)](https://github.com/jeshraghian/snntorch) [![PyPI - Downloads](https://img.shields.io/pypi/dm/snntorch)](https://pypi.org/project/snntorch)
-<!-- jeshraghian/snntorch -->
-<!-- jeshraghian/snntorch -->
+<!-- jeshraghian/snntorch --> 
+No open issues that need help
+ <!-- jeshraghian/snntorch -->
 
 ### [Spyx](https://github.com/kmheckel/spyx) - SNNs in JAX
 [![GitHub Repo stars](https://img.shields.io/github/stars/kmheckel/spyx)](https://github.com/kmheckel/spyx) [![PyPI - Downloads](https://img.shields.io/pypi/dm/spyx)](https://pypi.org/project/spyx)
