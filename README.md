@@ -17,7 +17,8 @@ The goal is to meet up, hack on projects, close issues, and have fun!
 The entire point is to move things forward, get stuff done, and provide real value! The below issues and pull requests were all closed during the hacking hours:
 
 * [Faery](https://github.com/aestream/faery/): [#10](https://github.com/aestream/faery/pull/10), [#15](https://github.com/aestream/faery/pull/15), [#16](https://github.com/aestream/faery/pull/16) [#22](https://github.com/aestream/faery/pull/22)
-* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104) [#122](https://github.com/neuromorphs/NIR/pull/122)
+* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104) [#122](https://github.com/neuromorphs/NIR/pull/122) [#124](https://github.com/neuromorphs/NIR/pull/124)
+* [NIRTorch](https://github.com/neuromorphs/nirtorch/): [#28](https://github.com/neuromorphs/nirtorch/pull/28)
 * [Norse](https://github.com/norse/norse): [#409](https://github.com/norse/norse/pull/409)
 * [Open-Neuromorphic.github.io](https://github.com/open-neuromorphic/open-neuromorphic.github.io): [#169](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/169)
 
@@ -50,9 +51,8 @@ If you want to add your own project, simply add three lines:
 
 ### [NIRTorch](https://github.com/neuromorphs/nirtorch) - PyTorch-NIR integration library
 [![GitHub Repo stars](https://img.shields.io/github/stars/neuromorphs/nirtorch)](https://github.com/neuromorphs/nirtorch) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nirtorch)](https://pypi.org/project/nirtorch)
-<!-- neuromorphs/nirtorch --> 
-No open issues that need help
- <!-- neuromorphs/nirtorch -->
+<!-- neuromorphs/nirtorch -->
+<!-- neuromorphs/nirtorch -->
 
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
 [![GitHub Repo stars](https://img.shields.io/github/stars/norse/norse)](https://github.com/norse/norse) [![PyPI - Downloads](https://img.shields.io/pypi/dm/norse)](https://pypi.org/projecs/norse)
