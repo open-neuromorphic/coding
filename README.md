@@ -50,8 +50,9 @@ If you want to add your own project, simply add three lines:
 
 ### [NIRTorch](https://github.com/neuromorphs/nirtorch) - PyTorch-NIR integration library
 [![GitHub Repo stars](https://img.shields.io/github/stars/neuromorphs/nirtorch)](https://github.com/neuromorphs/nirtorch) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nirtorch)](https://pypi.org/project/nirtorch)
-<!-- neuromorphs/nirtorch -->
-<!-- neuromorphs/nirtorch -->
+<!-- neuromorphs/nirtorch --> 
+No open issues that need help
+ <!-- neuromorphs/nirtorch -->
 
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
 [![GitHub Repo stars](https://img.shields.io/github/stars/norse/norse)](https://github.com/norse/norse) [![PyPI - Downloads](https://img.shields.io/pypi/dm/norse)](https://pypi.org/projecs/norse)
