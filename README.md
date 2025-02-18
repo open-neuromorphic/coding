@@ -52,6 +52,8 @@ If you want to add your own project, simply add three lines:
 ### [NIRTorch](https://github.com/neuromorphs/nirtorch) - PyTorch-NIR integration library
 [![GitHub Repo stars](https://img.shields.io/github/stars/neuromorphs/nirtorch)](https://github.com/neuromorphs/nirtorch) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nirtorch)](https://pypi.org/project/nirtorch)
 <!-- neuromorphs/nirtorch -->
+* [Add support for multiple inputs and outputs](https://github.com/neuromorphs/NIRTorch/issues/30)
+* [Provide default mapping function for trivial pytorch functions from `torch.nn`](https://github.com/neuromorphs/NIRTorch/issues/25)
 <!-- neuromorphs/nirtorch -->
 
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
