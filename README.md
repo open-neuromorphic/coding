@@ -5,7 +5,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/open-neuromorphic/coding)](https://github.com/open-neuromorphic/coding)
 
 
-[Neuromorphic technologies](https://en.wikipedia.org/wiki/Neuromorphic_computing) are fascinating new ways to build computers, inspired bythe brain.
+[Neuromorphic technologies](https://en.wikipedia.org/wiki/Neuromorphic_computing) are fascinating new ways to build computers, inspired by the brain.
 The ecosystem around neuromorphics is rapidly growing, and we have a unique window of opportunity to build accessible, fast, and reliable software for neuromorphic technologies.
 Help us by resolving issues below and join our community coding sessions where we improve the neuromorphic software ecosystem, one issue at the time 🚀
 
@@ -17,8 +17,8 @@ The goal is to meet up, hack on projects, close issues, and have fun!
 The entire point is to move things forward, get stuff done, and provide real value! The below issues and pull requests were all closed during the hacking hours:
 
 * [Faery](https://github.com/aestream/faery/): [#10](https://github.com/aestream/faery/pull/10), [#15](https://github.com/aestream/faery/pull/15), [#16](https://github.com/aestream/faery/pull/16) [#22](https://github.com/aestream/faery/pull/22)
-* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104) [#122](https://github.com/neuromorphs/NIR/pull/122) [#124](https://github.com/neuromorphs/NIR/pull/124)
-* [NIRTorch](https://github.com/neuromorphs/nirtorch/): [#28](https://github.com/neuromorphs/nirtorch/pull/28)
+* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104) [#122](https://github.com/neuromorphs/NIR/pull/122) [#124](https://github.com/neuromorphs/NIR/pull/124) [#128](https://github.com/neuromorphs/NIR/pull/128)
+* [NIRTorch](https://github.com/neuromorphs/nirtorch/): [#28](https://github.com/neuromorphs/nirtorch/pull/28) [#33](https://github.com/neuromorphs/nirtorch/pull/33)
 * [Norse](https://github.com/norse/norse): [#409](https://github.com/norse/norse/pull/409)
 * [Open-Neuromorphic.github.io](https://github.com/open-neuromorphic/open-neuromorphic.github.io): [#169](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/169)
 
