@@ -28,6 +28,7 @@ with open("README.md", "r") as f:
 
 # Scrape repos
 for repo in repos:
+  print("Reading ", repo)
   repo_object = g.get_repo(repo)
   issues = repo_object.get_issues(state="open", labels=["help wanted"])
   text_issues = "\n"
@@ -35,12 +36,14 @@ for repo in repos:
   for issue in issues:
     text_issues += issue_text(issue) + "\n"
     issue_counter += 1
+  print(f"Found {issue_counter} issues that are open and labelled 'help wanted'")
+    
   with open(f"README.md", "r") as f:
     text = f.read()
 
   with open(f"README.md", "w") as f:
     if issue_counter == 0:
-      sub = re.sub(regex_replace(repo), rf"\1 \nNo open issues that need help\n \3", text, flags=re.MULTILINE)
+      sub = re.sub(regex_replace(repo), rf"\1 \nNo open issues that need help\n\3", text, flags=re.MULTILINE)
     else:
       sub = re.sub(regex_replace(repo), rf"\1{text_issues}\3", text, flags=re.MULTILINE)
     f.write(sub)
